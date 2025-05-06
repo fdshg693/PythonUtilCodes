@@ -1,0 +1,10 @@
+.vscode/
+ignore.txt
+
+# コンパイル済みファイル
+__pycache__/
+*.py[cod]
+
+# 仮想環境
+venv/
+.env
